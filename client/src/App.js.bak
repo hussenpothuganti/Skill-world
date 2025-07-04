@@ -1,0 +1,16 @@
+import React from 'react';
+
+const App = () => {
+  return (
+    <div className="App">
+      <header className="App-header">
+        <h1>Welcome to SkillWorld</h1>
+        <p>
+          Your platform to connect, share, and grow your skills.
+        </p>
+      </header>
+    </div>
+  );
+};
+
+export default App;
